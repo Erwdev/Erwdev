@@ -75,7 +75,13 @@
 
 ## 🎯 Featured Projects
 
-> Coming soon! I'm currently building my portfolio...
+
+| Project | Type | Status | Role | Tech Stack | Summary | Link |
+|---------|------|--------|------|------------|---------|------|
+| Coming soon... | - | 🚧 Building | - | - | Currently listing projects | - |
+
+---
+
 
 ---
 
@@ -109,3 +115,14 @@
 
 
 **🎉 Thanks for stopping by! 🚀**
+
+
+
+
+
+
+
+
+
+
+
