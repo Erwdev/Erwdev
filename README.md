@@ -51,6 +51,27 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
+## 📊 Projects Portfolio
+
+<div align="left">
+  
+
+  *Yeah, most of these are class projects. Everyone starts somewhere, and the important thing is I'm actually learning the tech stacks hands-on. Each project taught me something new, from MVC patterns to NLP to computer vision. Building up my portfolio one commit at a time.* 🚀
+</div>
+
+| Project | Type | Status | Role | Tech Stack | Summary | Link |
+|---------|------|--------|------|------------|---------|------|
+| FinLog | Mobile App | ✅ Complete (Forked) | Mobile Developer | Dart, Flutter, Gemini API | Mobile money tracker with NLP-powered transaction parser using Gemini API for natural language input | [GitHub](https://github.com/Apps-FinLog/FinLog) |
+| Sijinak | Web App | ✅ Complete | View Developer | Laravel, PHP, MySQL, MVC | Classroom project exploring MVC architecture patterns using Laravel framework | [GitHub](https://github.com/sigidhanafi/sijinak) |
+| MM1 DES Simulation | Simulation | ✅ Complete | Developer | C++ | Discrete Event Simulation (DES) for M/M/1 queueing system implementation as group assignment | [GitHub](https://github.com/Erwdev/mm1-des-simulation) |
+| BulaksumurRide | Web App | ⚠️ Discontinued | Full Stack Developer | Next.js, JavaScript, MongoDB, OpenStreetMap API | Modular monolith ride-sharing system for scalable system architecture class, exploring JavaScript backend and map integration | [GitHub](https://github.com/erlmf/bulaksumurRide-repo) |
+| Smart Expense NLP | API/ML | 🚧 In Progress | Backend Developer | FastAPI, Python, Jupyter Notebook, NLP | Expense tracking system with NLP capabilities, handling repo setup, token preprocessing, and FastAPI configuration | [GitHub](https://github.com/Erwdev/smart-expense-nlp) |
+| TB CXR Detection | Computer Vision | 🚧 In Progress | ML Developer | Python, OpenCV, Deep Learning | Tuberculosis detection from chest X-ray images using digital image processing techniques | [GitHub](https://github.com/Erwdev/tb-cxr-detection) |
+| Coming soon... | - | 🚧 Building | - | - | Currently listing projects | - |
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9lbzA0amZxeW9uaTR4N2UxdGd5NHoweTkyMTJ3cjM0N3JvaWNhdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hdBnykQheM1hlQzKcX/giphy.gif" width="300"/>
+
+
 ---
 
 ## 📊 GitHub Stats
@@ -73,17 +94,7 @@
 
 ---
 
-## 🎯 Featured Projects
 
-
-| Project | Type | Status | Role | Tech Stack | Summary | Link |
-|---------|------|--------|------|------------|---------|------|
-| Coming soon... | - | 🚧 Building | - | - | Currently listing projects | - |
-
----
-
-
----
 
 ## 📬 Connect with Me
 
