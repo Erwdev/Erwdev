@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erwin</h1>
-<h3 align="center">UNI STUDENT ~ GENERALIST ADHD ~ INTP</h3>
+<h3 align="center">UNI STUDENT ~ GENERALIST ~ INTP</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=erwdev&label=Profile%20views&color=0e75b6&style=flat" alt="erwdev" />
